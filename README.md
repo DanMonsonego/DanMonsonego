@@ -29,6 +29,9 @@ I'm a 3rd-year Software Engineering Student at SCE - Shamoon College of Engineer
   - 🧮 Assisted in teaching Calculus and Discrete Math, focusing on grading and course development.
   - 🎓 Strengthened student understanding of core math principles in computer science while honing my ability to articulate complex concepts effectively.
 
+#### Technology Stack for Projects:
+- **Data-Process-GUI-Project:** `sklearn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `pickle`, `streamlit`
+- **Material-Helper Web Platform:** `C#`, `MVC (Model-View-Controller)`, `SQL database`, `Git`, `GitHub`
 ---
 
 ...
@@ -39,6 +42,7 @@ I'm a 3rd-year Software Engineering Student at SCE - Shamoon College of Engineer
     - Proficient in creating robust back-end systems and data-driven applications.
     - Familiar with frameworks like Django and Flask for web development.
     - Well-versed in libraries such as Pandas, NumPy, Scikit-Learn for Data Science, and TensorFlow, PyTorch for Machine Learning and AI.
+    - Experienced in image processing and computer vision tasks using libraries like OpenCV and PIL.
 
 - **Java:** 
     - Experienced in building scalable web applications and microservices.
