@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Dan Monsonego!
 
-I'm a 3rd-year Software Engineering Student at SCE - Shamoon College of Engineering, with a keen ability to grasp new concepts quickly and deliver on strict deadlines. I'm fueled by my ambition to continuously improve and evolve in the field of technology. My ability to think creatively and respond to problems swiftly shines, especially under pressure.
+Software Engineer, with a keen ability to grasp new concepts quickly and deliver on strict deadlines. I'm fueled by my ambition to continuously improve and evolve in the field of technology. My ability to think creatively and respond to problems swiftly shines, especially under pressure.
 
 ---
 
