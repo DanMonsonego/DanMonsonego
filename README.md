@@ -1,75 +1,100 @@
-### 👋 Hello there, I'm Dan Monsonego!
+# Dan Monsonego – Data & Software Engineer
 
-Software Engineer, with a keen ability to grasp new concepts quickly and deliver on strict deadlines. I'm fueled by my ambition to continuously improve and evolve in the field of technology. My ability to think creatively and respond to problems swiftly shines, especially under pressure.
-
----
-
-#### 🎓 **Education:**
-- 🏫 SCE - Shamoon College of Engineering
-- 🎓 Pursuing Bachelor of Science in Computer Software Engineering (Oct 2020 - Present)
-- 📊 Data Science Specialization
+Welcome to my GitHub portfolio! I'm a 4th-year Software Engineering student specializing in Data Science, with a strong passion for automation, machine learning, and data-driven solutions. Below you'll find curated projects that reflect my journey across cybersecurity, data pipelines, ML/NLP, DevOps, and more.
 
 ---
 
-#### 🛠 **Projects & Experience:**
+## 🚀 Projects Overview
 
-- **Machine Learning and Image Processing Project at SCE:**
-  - 🖊 Engineered a machine learning model to recognize handwritten text, achieving a notable accuracy of 87.5% -- the highest in my studies.
-  - 🚀 Overcame implementation limitations and optimized the model, leading to superior recognition performance and setting a benchmark in handwritten text recognition within my academic cohort.
+### 🔐 Ransomware-Detection
+**Tech:** Python, `pandas`, `scikit-learn`  
+**Highlights:**  
+- Real-time detection pipeline for cybersecurity threats  
+- Microservices architecture with log monitoring and anomaly alerts  
 
-- **Study Projects at SCE:**
-  - 🖥 Engineered a GUI for automated data classification and normalization.
-  - 📊 Validated various machine learning models through error matrices.
+### 🌐 Website-accessibility-testing-software
+**Tech:** Python  
+**Highlights:**  
+- Automated WCAG 2.1 compliance testing  
+- Generates detailed accessibility reports with remediation guidance  
 
-- **Material-Helper Web Platform:**
-  - 🌐 Spearheaded the end-to-end development of a web platform to assist individuals with disabilities during COVID-19.
-  - 🔄 Rolled out a dynamic request-matching system utilizing intelligent algorithms, effectively pairing user needs with a pool of registered volunteers.
+### ☁️ aws-deployment-demo
+**Tech:** Python, AWS (EC2, Lambda, CloudFormation)  
+**Highlights:**  
+- CI/CD pipeline configuration with automated deployment  
+- Demonstrates scalable cloud deployment practices  
 
-- **Technical Assistant at SCE (Apr 2023 - Present, 6 months):**
-  - 🧮 Assisted in teaching Calculus and Discrete Math, focusing on grading and course development.
-  - 🎓 Strengthened student understanding of core math principles in computer science while honing my ability to articulate complex concepts effectively.
+### 🧩 GUI_data_Proccess
+**Tech:** Python, GUI frameworks  
+**Highlights:**  
+- Interactive interface for data classification & normalization  
+- Emphasizes data cleaning and user-friendly interaction  
 
-#### Technology Stack for Projects:
-- **Data-Process-GUI-Project:** `sklearn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `pickle`, `streamlit`
-- **Material-Helper Web Platform:** `C#`, `MVC (Model-View-Controller)`, `SQL database`, `Git`, `GitHub`
----
+### 🧬 HDD_gender_predict
+**Tech:** Python, ML  
+**Highlights:**  
+- Gender classification model based on HDD image data  
+- Showcases image preprocessing, model training, and evaluation  
 
-...
+### 📉 lab1_scraping
+**Tech:** Python, BeautifulSoup / Scrapy  
+**Highlights:**  
+- Basic web scraping lab focusing on data extraction paradigms  
 
-#### 💻 **Skills:**
-
-- **Python:** 
-    - Proficient in creating robust back-end systems and data-driven applications.
-    - Familiar with frameworks like Django and Flask for web development.
-    - Well-versed in libraries such as Pandas, NumPy, Scikit-Learn for Data Science, and TensorFlow, PyTorch for Machine Learning and AI.
-    - Experienced in image processing and computer vision tasks using libraries like OpenCV and PIL.
-
-- **Java:** 
-    - Experienced in building scalable web applications and microservices.
-    - Knowledgeable in frameworks like Spring and Hibernate, and GUI development with JavaFX.
-
-- **JavaScript:** 
-    - Skilled in building dynamic client-side applications using React.js.
-    - Familiar with Node.js and Express.js for server-side development.
-    - Experience with the MERN stack (MongoDB, Express.js, React.js, Node.js) for full-stack web development.
-
-...
-
+### 💡 Matirial-Helper
+**Tech:** C#, HTML, .NET  
+**Highlights:**  
+- Community app connecting volunteers with people in need  
+- Location-based matching algorithm serving over 200 active users  
 
 ---
 
-#### 🌱 **Currently Learning:**
-- I'm currently delving deeper into Machine Learning and AI technologies, aiming to integrate them in future projects.
+## 🛠️ Core Skills
+
+### 🧠 Data Science & Machine Learning
+- Exploratory Data Analysis (EDA), data cleaning, and feature engineering  
+- Building and evaluating ML models using `scikit-learn`, `pandas`, and `NumPy`  
+- NLP pipelines for sentiment analysis and topic modeling  
+- Real-time anomaly detection and behavioral analysis from logs  
+
+### 🛠️ Data Engineering & Automation
+- Designing and implementing ETL pipelines for structured/unstructured data  
+- Task automation and scheduling using Python scripting  
+- Log monitoring and system event tracing with tools like ProcMon  
+- Building reproducible workflows using notebooks and scripts  
+
+### ☁️ Cloud, DevOps & Deployment
+- Cloud deployment with AWS (EC2, S3, Lambda)  
+- CI/CD pipelines with Jenkins, GitHub Actions  
+- Containerization with Docker and microservices architecture  
+- Scalable design for production-ready systems  
+
+### 👨‍💻 Software Engineering & Development
+- Proficient in Python, Java, C#, SQL  
+- Object-Oriented Programming (OOP) and modular design principles  
+- Experience in desktop GUI (Tkinter/PyQt) and web apps (Streamlit)  
+- Version control and collaboration with Git & GitHub  
+
+### 📊 Data Visualization & BI
+- Dashboards and interfaces using `Streamlit`, `matplotlib`, `seaborn`, `plotly`  
+- BI experience with Power BI and Tableau (basic level)  
+- Effective data storytelling and insight communication for stakeholders  
+
+### 🤝 Teamwork, Leadership & Communication
+- Experience mentoring 70+ students as a technical assistant  
+- Excellent interpersonal and teaching skills  
+- Fast learner with creative, ADHD-driven thinking  
+- Proven ability to work under pressure and deliver on deadlines  
 
 ---
 
-#### 💞️ **Looking to Collaborate on:**
-- Open to collaborating on projects related to Data Science, Machine Learning, and Backend . I'm always excited to work on impactful and challenging projects!
+## 📈 Connect & Collaborate
+
+- 📫 Email: **Monsonego63@gmail.com**  
+- 💼 LinkedIn: [dan-monsonego](https://www.linkedin.com/in/dan-monsonego)  
+- 💻 GitHub: [DanMonsonego](https://github.com/DanMonsonego)  
+- 🚀 Open to exciting opportunities in Data, Software, or DevOps roles!
 
 ---
 
-#### 📫 **How to Reach Me:**
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dan-monsonego/) or shoot me an [email](mailto:Monsonego63@gmail.com).
-
-
-
+Thanks for visiting – feel free to explore the projects and reach out!
