@@ -1,6 +1,6 @@
 # Dan Monsonego – Data & Software Engineer
 
-Welcome to my GitHub portfolio! I'm a 4th-year Software Engineering student specializing in Data Science, with a strong passion for automation, machine learning, and data-driven solutions. Below you'll find curated projects that reflect my journey across cybersecurity, data pipelines, ML/NLP, DevOps, and more.
+Welcome to my GitHub portfolio! I'm Junior Software Engineering  specializing in Data Science, with a strong passion for automation, machine learning, and data-driven solutions. Below you'll find curated projects that reflect my journey across cybersecurity, data pipelines, ML/NLP, DevOps, and more.
 
 ---
 
